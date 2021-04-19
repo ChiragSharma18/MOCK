@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/bpit4607/clientlibs"/>
+    <filter root="/apps/bpit4607/components"/>
+    <filter root="/apps/bpit4607/i18n"/>
+</workspaceFilter>
